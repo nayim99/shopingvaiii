@@ -1,0 +1,22 @@
+*{
+    margin: 0px; 
+    padding: 0px 
+} 
+body{
+    background-color: aqua; 
+    border: 1px; 
+    border-style: dashed; 
+    border-color: black; 
+    border-bottom-right-radius: 5px; 
+    border-bottom-left-radius: 5px; 
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px; 
+} 
+p{
+    font-size: 50px; 
+    color: black; 
+} 
+h1{
+    font-size: 100px; 
+    text-align: center; 
+}
